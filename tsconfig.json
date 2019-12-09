@@ -17,6 +17,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ng-feedback2": [
+        "dist/ng-feedback2"
+      ],
+      "ng-feedback2/*": [
+        "dist/ng-feedback2/*"
+      ]
+    }
   }
 }
